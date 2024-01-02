@@ -1,0 +1,11 @@
+# Folders
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
